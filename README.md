@@ -1,2 +1,2 @@
 # Bookswap
-A platform for swapping and sharing books
+A platform for swapping and sharing books.
